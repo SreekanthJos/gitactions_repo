@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\git-actions-web-app.props" />
+</Project>
